@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "2023 Tax Brackets for Single Filers"
+date:   2022-12-31 18:29:52 -0800
+categories: tax single 2023 reference
+---
+The tax brackets for 2023 for single filers are:
+
+| Taxable Income    | Tax Rate |
+|-------------------|----------|
+| Up to $11,000     | 10%      |
+| $11,001-$44,725   | 12%      |
+| $44,726-$95,375   | 22%      |
+| $95,376-$182,100  | 24%      |
+| $182,101-$231,250 | 32%      |
+| $231,250-$578,125 | 35%      |
+| Over $578,125     | 37%      |
+
+[IRS announcement](https://www.irs.gov/newsroom/irs-provides-tax-inflation-adjustments-for-tax-year-2023)

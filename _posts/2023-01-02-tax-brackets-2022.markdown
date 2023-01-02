@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "2022 Tax Brackets for Single Filers"
+date:   2023-01-02 11:32:00 -0800
+categories: tax single 2022 reference
+---
+The tax brackets for 2022 for single filers are:
+
+| Taxable Income    | Tax Rate |
+|-------------------|----------|
+| Up to $10,275     | 10%      |
+| $10,276-$41,775   | 12%      |
+| $41,776-$89,075   | 22%      |
+| $89,076-$170,050  | 24%      |
+| $170,051-$215,950 | 32%      |
+| $215,951-$539,900 | 35%      |
+| Over $539,900     | 37%      |
+
+[IRS announcement](https://www.irs.gov/newsroom/irs-provides-tax-inflation-adjustments-for-tax-year-2022)
